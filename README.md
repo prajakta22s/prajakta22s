@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prajakta Bhavsar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datanami.com%2F2018%2F09%2F17%2Fimproving-your-odds-with-data-science-hiring%2F&psig=AOvVaw1Y2xNEZ9MluPh0xSrXQ-Er&ust=1669998839677000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCJDliqLs2PsCFQAAAAAdAAAAABAJ">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🔭 I’m currently working on **working as an intern at Aivariant.**
 
