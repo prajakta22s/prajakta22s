@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **working as an intern at Aivariant.**
+- 🔭 I’m currently working on **working as an intern at <a href="https://aivariant.com/" target="blank"><img align="center" src="https://www.aivariant.com/wp-content/uploads/2021/01/ai_logo5_2-1.png" alt="prajakta22s" height="20" width="60" /></a>**
 
 - 🌱 I’m interested in **Data Analysis,Machine Learning Algorithm,Deep learning libraries like Keras,Pytorch,Tensorflow.**
 
