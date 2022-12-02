@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prajakta Bhavsar</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
-<img align="center" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmir-s3-cdn-cf.behance.net%2Fproject_modules%2Fdisp%2F601014116770475.6068beff4640a.gif&imgrefurl=https%3A%2F%2Fwww.behance.net%2Fgallery%2F116770475%2FAnimated-illustrations&tbnid=Ayf1SYgO6GGXAM&vet=12ahUKEwi5kM7Mx9r7AhVNj9gFHZj1BwsQMyhWegUIARCmAQ..i&docid=hkdl7LLQcswitM&w=500&h=350&q=animated%20images%20for%20develoer&ved=2ahUKEwi5kM7Mx9r7AhVNj9gFHZj1BwsQMyhWegUIARCmAQ)](https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif)">
+<img align="center" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 🔭 I’m currently working  **as an intern at <a href="https://aivariant.com/" target="blank"><img align="center" src="https://www.aivariant.com/wp-content/uploads/2021/01/ai_logo5_2-1.png" alt="prajakta22s" height="20" width="60" /></a>**
 
