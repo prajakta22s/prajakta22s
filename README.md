@@ -6,7 +6,7 @@
 
 - 🌱 I’m interested in **Data Analysis,Machine Learning Algorithm,Deep learning libraries like Keras,Pytorch,Tensorflow.**
 
-- 🤝 I’m currently learning **Data Science, Machine learning and Deep learning libraries slong with that learning framework..**
+- 🤝 I’m currently learning **Data Science, Machine learning and Deep learning libraries along with that learning framework..**
 
 - 👯 I’m looking to collaborate on **Data Science, Machine Learning**
 
