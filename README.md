@@ -16,7 +16,7 @@
 
 - 🌱 I’m interested in **Data Analysis,Machine Learning Algorithm,Deep learning libraries like Keras,Pytorch,Tensorflow.**
 
-- 🤝 I’m currently learning **Data Science, Machine learning and Deep learning libraries along with that Python, Tableau, R, MySQL, Azure, Apache Spark, Hadoop, SAS,Streamlit.**
+- 🤝 I’m currently learning **Pyhton,Statistical Analysis,Predictive Analysis using Regression,Machine Learning,Text Analytics and NLP,R Tool,Data Mining,Forecasting Analytics,Python Flask and Streamlit for deployment,Data Visualization using Tableau,Apache Spark,MySQL,Microsoft Azure,Big Data Hadoop and SAS Base.**
 
 - 👯 I’m looking to collaborate on **Data Science, Machine Learning**
 
