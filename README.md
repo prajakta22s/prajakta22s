@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Prajakta Bhavsar</h1>
-<h3 align="center">A passionate Data Scientist from India.</h3>
+<h3 align="center">A passionate Software Developer from India.</h3>
 <img align="center" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 
@@ -12,15 +12,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajakta22s" alt="prajakta22s" /></a> </p>
 
-- 🔭 I’m currently working on **as an intern at <a href="https://aivariant.com/" target="blank"><img align="center" src="https://www.aivariant.com/wp-content/uploads/2021/01/ai_logo5_2-1.png" alt="prajakta22s" height="20" width="60" /></a>**
+- 🔭 I’m recently completed **an internship at <a href="https://aivariant.com/" target="blank"><img align="center" src="https://www.aivariant.com/wp-content/uploads/2021/01/ai_logo5_2-1.png" alt="prajakta22s" height="20" width="60" /></a>**
 
-- 🌱 I’m interested in **Data Analysis,Machine Learning Algorithm,Deep learning libraries like Keras,Pytorch,Tensorflow.**
+- 🌱 I’m interested in **HTML5,CSS3,JS<ReactJS,Core Java,Python,SpringMVC and Spring Boot Framework,Data Science and Machine Learning,Front End and BackEnd.**
 
-- 🤝 I’m currently learning **Python,Statistical Analysis,Predictive Analysis using Regression,Machine Learning,Text Analytics and NLP,R Tool,Data Mining,Forecasting Analytics,Python Flask and Streamlit for deployment,Data Visualization using Tableau,Apache Spark,MySQL,Microsoft Azure,Big Data Hadoop and SAS Base.**
+- 🤝 I’m currently learning **(CRUD) REST API.**
 
 - 👯 I’m looking to collaborate on **Data Science, Machine Learning**
 
-- 💬 Ask me about **Streamlit and Model Deployment.**
+- 💬 Ask me about **Projects.**
 
 - 📫 How to reach me **prajakta22sb@gmail.com**
 
