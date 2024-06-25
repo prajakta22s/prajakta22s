@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prajakta22s" alt="prajakta22s" /></a> </p>
 
-- 🔭 I’m recently completed **internship at Aeries**
+
 
 - 🌱 I’m interested in **HTML5,CSS3,JS,ReactJS,Core Java,Python,SpringMVC and Spring Boot Framework,Data Structure and Algorithms,Front End and BackEnd.**
 
