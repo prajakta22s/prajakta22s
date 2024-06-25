@@ -3,7 +3,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Prajakta Bhavsar</h1>
-<h3 align="center">A passionate Software Developer from India.</h3>
+<h3 align="center">A passionate Software Developer</h3>
 <img align="center" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 
@@ -14,9 +14,9 @@
 
 
 
-- 🌱 I’m interested in **HTML5,CSS3,JS,ReactJS,Core Java,Python,SpringMVC and Spring Boot Framework,Data Structure and Algorithms,Front End and BackEnd.**
+- 🌱 I’m interested in **HTML5,CSS3,JS,ReactJS,Core Java,Python,SpringMVC and Spring Boot Framework,Data Structure and Algorithms,Front End and BackEnd,DOM Manupulation and API's.**
 
-- 🤝 I’m currently learning **DOM Manupulation and API's**
+- 🤝 I’m currently learning **Mobile App Development**
 
 - 👯 I’m looking to collaborate on **Data Science, Machine Learning**
 
