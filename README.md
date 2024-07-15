@@ -16,7 +16,7 @@
 
 - 🌱 I’m interested in **HTML5,CSS3,JS,ReactJS,Core Java,Python,SpringMVC and Spring Boot Framework,Data Structure and Algorithms,Front End and BackEnd,DOM Manupulation and API's.**
 
-- 🤝 I’m currently learning **Mobile App Development**
+- 🤝 I’m currently improving **Full Stack Development and DSA**
 
 - 👯 I’m looking to collaborate on **Data Science, Machine Learning**
 
